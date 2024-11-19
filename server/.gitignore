@@ -15,6 +15,7 @@ logs/server.log
 *.db-journal
 storage/lancedb
 public/
+*.local
 
 # For legacy copies of repo
 documents
